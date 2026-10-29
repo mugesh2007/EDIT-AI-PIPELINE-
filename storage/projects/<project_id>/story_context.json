@@ -1,0 +1,41 @@
+{
+  "project_id": "project_001",
+  "brief": "Create a coherent video explaining the product and its benefits.",
+  "clip_count": 3,
+  "segments": [
+    {
+      "segment_id": "clip_001_seg_0000",
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 6.5,
+      "transcript": "Today I want to introduce our product.",
+      "visual_summary": "The speaker faces the camera.",
+      "story_role": "introduction"
+    },
+    {
+      "segment_id": "clip_002_seg_0000",
+      "clip_id": "clip_002",
+      "start": 4.0,
+      "end": 12.0,
+      "transcript": "Our product helps teams save time.",
+      "visual_summary": "The speaker describes the product benefit.",
+      "story_role": "benefit"
+    },
+    {
+      "segment_id": "clip_003_seg_0000",
+      "clip_id": "clip_003",
+      "start": 3.0,
+      "end": 11.0,
+      "transcript": "",
+      "visual_summary": "The product is demonstrated in use.",
+      "story_role": "demonstration"
+    }
+  ],
+  "global_tasks": [
+    "Find repeated statements across all clips.",
+    "Select the strongest complete take.",
+    "Order scenes according to the story brief.",
+    "Preserve unique information and context.",
+    "Flag uncertain removals for review."
+  ]
+}

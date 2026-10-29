@@ -1,0 +1,25 @@
+{
+  "clip_id": "clip_001",
+  "duration": 45.2,
+  "summary": "The speaker introduces the product and explains its main benefit.",
+  "segments": [
+    {
+      "segment_id": "clip_001_seg_0000",
+      "start": 0.0,
+      "end": 6.5,
+      "transcript": "Today I want to introduce our product.",
+      "visual_summary": "The speaker faces the camera.",
+      "story_role": "introduction",
+      "quality": 0.92
+    },
+    {
+      "segment_id": "clip_001_seg_0001",
+      "start": 6.5,
+      "end": 14.0,
+      "transcript": "It helps teams save time.",
+      "visual_summary": "The speaker explains the main benefit.",
+      "story_role": "benefit",
+      "quality": 0.86
+    }
+  ]
+}

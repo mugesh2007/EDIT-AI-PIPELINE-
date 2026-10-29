@@ -1,0 +1,31 @@
+{
+  "project_id": "project_001",
+  "status": "validated",
+  "ordered_segments": [
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 6.5,
+      "decision": "keep",
+      "reason": "Clear introduction",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 4.0,
+      "end": 12.0,
+      "decision": "keep",
+      "reason": "Best explanation of the benefit",
+      "story_role": "benefit"
+    },
+    {
+      "clip_id": "clip_003",
+      "start": 3.0,
+      "end": 11.0,
+      "decision": "keep",
+      "reason": "Visual demonstration supports the explanation",
+      "story_role": "demonstration"
+    }
+  ],
+  "review_items": []
+}

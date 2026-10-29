@@ -1,0 +1,26 @@
+{
+  "project_id": "project_001",
+  "clips": [
+    {
+      "clip_id": "clip_001",
+      "filename": "interview_a.mp4",
+      "path": "source/interview_a.mp4",
+      "duration": 45.2,
+      "media_type": "video"
+    },
+    {
+      "clip_id": "clip_002",
+      "filename": "interview_b.mp4",
+      "path": "source/interview_b.mp4",
+      "duration": 38.7,
+      "media_type": "video"
+    },
+    {
+      "clip_id": "clip_003",
+      "filename": "product_demo.mp4",
+      "path": "source/product_demo.mp4",
+      "duration": 27.4,
+      "media_type": "video"
+    }
+  ]
+}

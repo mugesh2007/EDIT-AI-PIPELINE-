@@ -1,0 +1,23 @@
+{
+  "project_id": "project_001",
+  "title": "Product Introduction Video",
+  "brief": "Create a coherent video explaining the product and its benefits.",
+  "target_duration_seconds": 60,
+  "output_versions": [
+    {
+      "name": "landscape",
+      "aspect_ratio": "16:9"
+    },
+    {
+      "name": "social_short",
+      "aspect_ratio": "9:16"
+    }
+  ],
+  "editing_preferences": {
+    "remove_repeated_statements": true,
+    "remove_long_silences": true,
+    "preserve_unique_information": true,
+    "preserve_natural_context": true,
+    "require_review_for_uncertain_cuts": true
+  }
+}

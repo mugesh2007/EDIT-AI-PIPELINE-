@@ -1,0 +1,16 @@
+{
+  "clip_id": "clip_002",
+  "duration": 38.7,
+  "summary": "The speaker describes in depth how the product helps teams save time.",
+  "segments": [
+    {
+      "segment_id": "clip_002_seg_0000",
+      "start": 4.0,
+      "end": 12.0,
+      "transcript": "Our product helps teams save time.",
+      "visual_summary": "The speaker describes the product benefit.",
+      "story_role": "benefit",
+      "quality": 0.89
+    }
+  ]
+}
